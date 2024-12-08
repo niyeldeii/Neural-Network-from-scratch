@@ -1,6 +1,6 @@
 # Neural Network from Scratch
 
-Neural networks are inspired by the human brain and form the basis of Artificial Intelligence (AI) and Machine Learning (ML). In the brain, neurons transmit signals through synapses, processing information in layers. Similarly, neural networks consist of layers of artificial neurons that work together to solve complex tasks, such as pattern recognition, decision-making, and prediction.
+Neural networks are inspired by the human brain and have been pivotal  in revolutionizing the fields of Artificial Intelligence (AI) and Machine Learning (ML). In the brain, neurons transmit signals through synapses, processing information in layers. Similarly, neural networks consist of layers of artificial neurons that work together to solve complex tasks, such as pattern recognition, decision-making, and prediction.
 
 In AI, neural networks learn from data by adjusting the weights of connections between neurons. During training, the network minimizes the error in its predictions, improving over time through optimization.
 
